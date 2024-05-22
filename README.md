@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @isibullion
-- 👀 I’m interested in ...programming website
-- 🌱 I’m currently learning ...web desinging
-- 💞️ I’m looking for collaborators on ...freeworld a site which is desinged to bring the world together through entertainment. this site is still a text site going under development, as more features and functionlities is yet to be added
-- some of the buttons are yet to be fixed.
+- 👋 Hi, I’m @isibullion.
 - 📫 How to reach me ...isibullion@gmail.com   abuglobalmerchant@gmail.com phone:+233555780304 
 
 <!---
